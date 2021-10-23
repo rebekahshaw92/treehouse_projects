@@ -1,0 +1,6 @@
+Pig Latin
+ [x] Convert single starting consonant word to pig latin
+ [ ] Covert digraph word to pig latin
+ [ ] Covert trigraph word to pig latin
+ [ ] Covert starting vowel word to pig latin
+

@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9",
+        "codedungeon/phpunit-result-printer": "^0.31.0"
+    }
+}
